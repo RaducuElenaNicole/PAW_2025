@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\paw_seminar5_24_03_2025\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|solutionrelative:paw_seminar5_24_03_2025\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|d:\\facultate\\restante\\2.2. paw recuperare\\seminare prof. vilcea\\paw_seminar6_31_03_2025\\paw_seminar5_24_03_2025\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|solutionrelative:paw_seminar5_24_03_2025\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\paw_seminar5_24_03_2025\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|solutionrelative:paw_seminar5_24_03_2025\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\paw_seminar5_24_03_2025\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|solutionrelative:paw_seminar5_24_03_2025\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\paw_seminar5_24_03_2025\\carlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|solutionrelative:paw_seminar5_24_03_2025\\carlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\paw_seminar5_24_03_2025\\carlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|solutionrelative:paw_seminar5_24_03_2025\\carlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\paw_seminar5_24_03_2025\\database\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|solutionrelative:paw_seminar5_24_03_2025\\database\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\paw_seminar5_24_03_2025\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|solutionrelative:paw_seminar5_24_03_2025\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\paw_seminar5_24_03_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549C7810-4ADA-46AD-83DC-860E0121A054}|PAW_seminar5_24_03_2025\\PAW_seminar5_24_03_2025.csproj|solutionrelative:paw_seminar5_24_03_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "PAW_seminar5_24_03_2025\\Services\\CarService.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\Services\\CarService.cs",
+              "RelativeToolTip": "PAW_seminar5_24_03_2025\\Services\\CarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:45:28.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "PAW_seminar5_24_03_2025\\Repositories\\CarRepository.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "PAW_seminar5_24_03_2025\\Repositories\\CarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:47:01.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCarForm.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\AddCarForm.cs",
+              "RelativeDocumentMoniker": "PAW_seminar5_24_03_2025\\AddCarForm.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\AddCarForm.cs",
+              "RelativeToolTip": "PAW_seminar5_24_03_2025\\AddCarForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:29:15.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCarForm.cs [Design]",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\AddCarForm.cs",
+              "RelativeDocumentMoniker": "PAW_seminar5_24_03_2025\\AddCarForm.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\AddCarForm.cs [Design]",
+              "RelativeToolTip": "PAW_seminar5_24_03_2025\\AddCarForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:23:04.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarListForm.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\CarListForm.cs",
+              "RelativeDocumentMoniker": "PAW_seminar5_24_03_2025\\CarListForm.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\CarListForm.cs",
+              "RelativeToolTip": "PAW_seminar5_24_03_2025\\CarListForm.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAD4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:47:34.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarListForm.cs [Design]",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\CarListForm.cs",
+              "RelativeDocumentMoniker": "PAW_seminar5_24_03_2025\\CarListForm.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\CarListForm.cs [Design]",
+              "RelativeToolTip": "PAW_seminar5_24_03_2025\\CarListForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:57:47.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FakeDatabase.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\Database\\FakeDatabase.cs",
+              "RelativeDocumentMoniker": "PAW_seminar5_24_03_2025\\Database\\FakeDatabase.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\Database\\FakeDatabase.cs",
+              "RelativeToolTip": "PAW_seminar5_24_03_2025\\Database\\FakeDatabase.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:33:57.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "PAW_seminar5_24_03_2025\\Entities\\Car.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\Entities\\Car.cs",
+              "RelativeToolTip": "PAW_seminar5_24_03_2025\\Entities\\Car.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:23:29.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\Program.cs",
+              "RelativeDocumentMoniker": "PAW_seminar5_24_03_2025\\Program.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar6_31_03_2025\\PAW_seminar5_24_03_2025\\Program.cs",
+              "RelativeToolTip": "PAW_seminar5_24_03_2025\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:16:56.765Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 159,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

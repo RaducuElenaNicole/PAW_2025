@@ -1,0 +1,7 @@
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\seminare prof. Vilcea\PAW_seminar3_10_03_2025\PAW_seminar3_10_03_2025\bin\Debug\PAW_seminar3_10_03_2025.exe.config
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\seminare prof. Vilcea\PAW_seminar3_10_03_2025\PAW_seminar3_10_03_2025\bin\Debug\PAW_seminar3_10_03_2025.exe
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\seminare prof. Vilcea\PAW_seminar3_10_03_2025\PAW_seminar3_10_03_2025\bin\Debug\PAW_seminar3_10_03_2025.pdb
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\seminare prof. Vilcea\PAW_seminar3_10_03_2025\PAW_seminar3_10_03_2025\obj\Debug\PAW_seminar3_10_03_2025.csproj.AssemblyReference.cache
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\seminare prof. Vilcea\PAW_seminar3_10_03_2025\PAW_seminar3_10_03_2025\obj\Debug\PAW_seminar3_10_03_2025.csproj.CoreCompileInputs.cache
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\seminare prof. Vilcea\PAW_seminar3_10_03_2025\PAW_seminar3_10_03_2025\obj\Debug\PAW_seminar3_10_03_2025.exe
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\seminare prof. Vilcea\PAW_seminar3_10_03_2025\PAW_seminar3_10_03_2025\obj\Debug\PAW_seminar3_10_03_2025.pdb
