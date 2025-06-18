@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,25 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\PAW_2025\\Seminare EU\\PAW_seminar7_28_04_2025\\PAW_seminar7_28_04_2025\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "PAW_seminar7_28_04_2025\\Form1.Designer.cs",
-              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\PAW_2025\\Seminare EU\\PAW_seminar7_28_04_2025\\PAW_seminar7_28_04_2025\\Form1.Designer.cs",
-              "RelativeToolTip": "PAW_seminar7_28_04_2025\\Form1.Designer.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAawC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T09:15:46.122Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\PAW_2025\\Seminare EU\\PAW_seminar7_28_04_2025\\PAW_seminar7_28_04_2025\\Form1.cs",
               "RelativeDocumentMoniker": "PAW_seminar7_28_04_2025\\Form1.cs",
               "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\PAW_2025\\Seminare EU\\PAW_seminar7_28_04_2025\\PAW_seminar7_28_04_2025\\Form1.cs",
               "RelativeToolTip": "PAW_seminar7_28_04_2025\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAvwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T09:15:07.552Z",
               "EditorCaption": ""
@@ -83,10 +71,24 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\PAW_2025\\Seminare EU\\PAW_seminar7_28_04_2025\\PAW_seminar7_28_04_2025\\Form1.cs",
               "RelativeDocumentMoniker": "PAW_seminar7_28_04_2025\\Form1.cs",
-              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\seminare prof. Vilcea\\PAW_seminar7_28_04_2025\\PAW_seminar7_28_04_2025\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\seminare prof. Vilcea\\PAW_seminar7_28_04_2025\\PAW_seminar7_28_04_2025\\Form1.cs [Design]",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\PAW_2025\\Seminare EU\\PAW_seminar7_28_04_2025\\PAW_seminar7_28_04_2025\\Form1.cs [Design]",
+              "RelativeToolTip": "PAW_seminar7_28_04_2025\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T09:08:36.316Z"
+              "WhenOpened": "2025-04-28T09:08:36.316Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\PAW_2025\\Seminare EU\\PAW_seminar7_28_04_2025\\PAW_seminar7_28_04_2025\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PAW_seminar7_28_04_2025\\Form1.Designer.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\PAW_2025\\Seminare EU\\PAW_seminar7_28_04_2025\\PAW_seminar7_28_04_2025\\Form1.Designer.cs",
+              "RelativeToolTip": "PAW_seminar7_28_04_2025\\Form1.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAawC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:15:46.122Z",
+              "EditorCaption": ""
             }
           ]
         }

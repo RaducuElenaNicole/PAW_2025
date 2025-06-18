@@ -1,0 +1,11 @@
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\pregatire pentru examen\preg1\preg1\bin\Debug\preg1.exe.config
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\pregatire pentru examen\preg1\preg1\bin\Debug\preg1.exe
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\pregatire pentru examen\preg1\preg1\bin\Debug\preg1.pdb
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\pregatire pentru examen\preg1\preg1\obj\Debug\preg1.csproj.AssemblyReference.cache
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\pregatire pentru examen\preg1\preg1\obj\Debug\preg1.formulare.FormAdaugareProdus.resources
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\pregatire pentru examen\preg1\preg1\obj\Debug\preg1.FormPrincipal.resources
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\pregatire pentru examen\preg1\preg1\obj\Debug\preg1.Properties.Resources.resources
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\pregatire pentru examen\preg1\preg1\obj\Debug\preg1.csproj.GenerateResource.cache
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\pregatire pentru examen\preg1\preg1\obj\Debug\preg1.csproj.CoreCompileInputs.cache
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\pregatire pentru examen\preg1\preg1\obj\Debug\preg1.exe
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\pregatire pentru examen\preg1\preg1\obj\Debug\preg1.pdb

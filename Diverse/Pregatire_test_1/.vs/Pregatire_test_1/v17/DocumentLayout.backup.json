@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A2F4-03DE-43E9-9CA2-D81F2AD4C502}|Pregatire_test_1\\Pregatire_test_1.csproj|D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\pregatire_test_1\\windowsforms\\formadddoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A2F4-03DE-43E9-9CA2-D81F2AD4C502}|Pregatire_test_1\\Pregatire_test_1.csproj|solutionrelative:pregatire_test_1\\windowsforms\\formadddoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A2F4-03DE-43E9-9CA2-D81F2AD4C502}|Pregatire_test_1\\Pregatire_test_1.csproj|D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\pregatire_test_1\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A2F4-03DE-43E9-9CA2-D81F2AD4C502}|Pregatire_test_1\\Pregatire_test_1.csproj|solutionrelative:pregatire_test_1\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A2F4-03DE-43E9-9CA2-D81F2AD4C502}|Pregatire_test_1\\Pregatire_test_1.csproj|d:\\facultate\\restante\\2.2. paw recuperare\\git_paw_2025\\cod scris\\pregatire test\\pregatire_test_1\\pregatire_test_1\\windowsforms\\principalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A2F4-03DE-43E9-9CA2-D81F2AD4C502}|Pregatire_test_1\\Pregatire_test_1.csproj|solutionrelative:pregatire_test_1\\windowsforms\\principalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A2F4-03DE-43E9-9CA2-D81F2AD4C502}|Pregatire_test_1\\Pregatire_test_1.csproj|D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\pregatire_test_1\\windowsforms\\principalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A2F4-03DE-43E9-9CA2-D81F2AD4C502}|Pregatire_test_1\\Pregatire_test_1.csproj|solutionrelative:pregatire_test_1\\windowsforms\\principalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A2F4-03DE-43E9-9CA2-D81F2AD4C502}|Pregatire_test_1\\Pregatire_test_1.csproj|D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\pregatire_test_1\\windowsforms\\formeditdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A2F4-03DE-43E9-9CA2-D81F2AD4C502}|Pregatire_test_1\\Pregatire_test_1.csproj|solutionrelative:pregatire_test_1\\windowsforms\\formeditdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A2F4-03DE-43E9-9CA2-D81F2AD4C502}|Pregatire_test_1\\Pregatire_test_1.csproj|D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\pregatire_test_1\\windowsforms\\formeditdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A2F4-03DE-43E9-9CA2-D81F2AD4C502}|Pregatire_test_1\\Pregatire_test_1.csproj|solutionrelative:pregatire_test_1\\windowsforms\\formeditdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A2F4-03DE-43E9-9CA2-D81F2AD4C502}|Pregatire_test_1\\Pregatire_test_1.csproj|D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\pregatire_test_1\\windowsforms\\formadddoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A2F4-03DE-43E9-9CA2-D81F2AD4C502}|Pregatire_test_1\\Pregatire_test_1.csproj|solutionrelative:pregatire_test_1\\windowsforms\\formadddoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A2F4-03DE-43E9-9CA2-D81F2AD4C502}|Pregatire_test_1\\Pregatire_test_1.csproj|D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\pregatire_test_1\\entities\\spital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A2F4-03DE-43E9-9CA2-D81F2AD4C502}|Pregatire_test_1\\Pregatire_test_1.csproj|solutionrelative:pregatire_test_1\\entities\\spital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 322,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\Pregatire_test_1\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "Pregatire_test_1\\Entities\\Doctor.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\Pregatire_test_1\\Entities\\Doctor.cs",
+              "RelativeToolTip": "Pregatire_test_1\\Entities\\Doctor.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:19:47.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormEditDoctor.cs [Design]",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\Pregatire_test_1\\WindowsForms\\FormEditDoctor.cs",
+              "RelativeDocumentMoniker": "Pregatire_test_1\\WindowsForms\\FormEditDoctor.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\Pregatire_test_1\\WindowsForms\\FormEditDoctor.cs [Design]",
+              "RelativeToolTip": "Pregatire_test_1\\WindowsForms\\FormEditDoctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:50:27.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAddDoctor.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\Pregatire_test_1\\WindowsForms\\FormAddDoctor.cs",
+              "RelativeDocumentMoniker": "Pregatire_test_1\\WindowsForms\\FormAddDoctor.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\Pregatire_test_1\\WindowsForms\\FormAddDoctor.cs",
+              "RelativeToolTip": "Pregatire_test_1\\WindowsForms\\FormAddDoctor.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv0UAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:34:33.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrincipalForm.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\Pregatire_test_1\\WindowsForms\\PrincipalForm.cs",
+              "RelativeDocumentMoniker": "Pregatire_test_1\\WindowsForms\\PrincipalForm.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\Pregatire_test_1\\WindowsForms\\PrincipalForm.cs",
+              "RelativeToolTip": "Pregatire_test_1\\WindowsForms\\PrincipalForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:22:34.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrincipalForm.cs [Design]",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\Pregatire_test_1\\WindowsForms\\PrincipalForm.cs",
+              "RelativeDocumentMoniker": "Pregatire_test_1\\WindowsForms\\PrincipalForm.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\Pregatire_test_1\\WindowsForms\\PrincipalForm.cs [Design]",
+              "RelativeToolTip": "Pregatire_test_1\\WindowsForms\\PrincipalForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:01:39.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Spital.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\Pregatire_test_1\\Entities\\Spital.cs",
+              "RelativeDocumentMoniker": "Pregatire_test_1\\Entities\\Spital.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\Pregatire_test_1\\Entities\\Spital.cs",
+              "RelativeToolTip": "Pregatire_test_1\\Entities\\Spital.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:23:59.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormEditDoctor.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\Pregatire_test_1\\WindowsForms\\FormEditDoctor.cs",
+              "RelativeDocumentMoniker": "Pregatire_test_1\\WindowsForms\\FormEditDoctor.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\Pregatire_test_1\\WindowsForms\\FormEditDoctor.cs",
+              "RelativeToolTip": "Pregatire_test_1\\WindowsForms\\FormEditDoctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:51:58.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormAddDoctor.cs [Design]",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\Pregatire_test_1\\WindowsForms\\FormAddDoctor.cs",
+              "RelativeDocumentMoniker": "Pregatire_test_1\\WindowsForms\\FormAddDoctor.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\pregatire test\\Pregatire_test_1\\Pregatire_test_1\\WindowsForms\\FormAddDoctor.cs [Design]",
+              "RelativeToolTip": "Pregatire_test_1\\WindowsForms\\FormAddDoctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:17:25.509Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

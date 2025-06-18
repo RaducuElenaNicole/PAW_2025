@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\Proiect\\proiect_PAW_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78745B3B-122B-4312-BDBA-D58E678B022B}|proiect_PAW_2025\\proiect_PAW_2025.csproj|d:\\facultate\\restante\\2.2. paw recuperare\\git_paw_2025\\cod scris\\proiect\\proiect_paw_2025\\proiect_paw_2025\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78745B3B-122B-4312-BDBA-D58E678B022B}|proiect_PAW_2025\\proiect_PAW_2025.csproj|solutionrelative:proiect_paw_2025\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78745B3B-122B-4312-BDBA-D58E678B022B}|proiect_PAW_2025\\proiect_PAW_2025.csproj|d:\\facultate\\restante\\2.2. paw recuperare\\git_paw_2025\\cod scris\\proiect\\proiect_paw_2025\\proiect_paw_2025\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78745B3B-122B-4312-BDBA-D58E678B022B}|proiect_PAW_2025\\proiect_PAW_2025.csproj|solutionrelative:proiect_paw_2025\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78745B3B-122B-4312-BDBA-D58E678B022B}|proiect_PAW_2025\\proiect_PAW_2025.csproj|d:\\facultate\\restante\\2.2. paw recuperare\\git_paw_2025\\cod scris\\proiect\\proiect_paw_2025\\proiect_paw_2025\\models\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78745B3B-122B-4312-BDBA-D58E678B022B}|proiect_PAW_2025\\proiect_PAW_2025.csproj|solutionrelative:proiect_paw_2025\\models\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78745B3B-122B-4312-BDBA-D58E678B022B}|proiect_PAW_2025\\proiect_PAW_2025.csproj|D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\Proiect\\proiect_PAW_2025\\proiect_paw_2025\\models\\productie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78745B3B-122B-4312-BDBA-D58E678B022B}|proiect_PAW_2025\\proiect_PAW_2025.csproj|solutionrelative:proiect_paw_2025\\models\\productie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78745B3B-122B-4312-BDBA-D58E678B022B}|proiect_PAW_2025\\proiect_PAW_2025.csproj|D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\Proiect\\proiect_PAW_2025\\proiect_paw_2025\\models\\gestiunestoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78745B3B-122B-4312-BDBA-D58E678B022B}|proiect_PAW_2025\\proiect_PAW_2025.csproj|solutionrelative:proiect_paw_2025\\models\\gestiunestoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\Proiect\\proiect_PAW_2025\\proiect_PAW_2025\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "proiect_PAW_2025\\Forms\\Form1.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\Proiect\\proiect_PAW_2025\\proiect_PAW_2025\\Forms\\Form1.cs",
+              "RelativeToolTip": "proiect_PAW_2025\\Forms\\Form1.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAAUwCABAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:04:34.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\Proiect\\proiect_PAW_2025\\proiect_PAW_2025\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "proiect_PAW_2025\\Forms\\Form1.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\Proiect\\proiect_PAW_2025\\proiect_PAW_2025\\Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "proiect_PAW_2025\\Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:04:22.196Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produs.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\Proiect\\proiect_PAW_2025\\proiect_PAW_2025\\Models\\Produs.cs",
+              "RelativeDocumentMoniker": "proiect_PAW_2025\\Models\\Produs.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\Proiect\\proiect_PAW_2025\\proiect_PAW_2025\\Models\\Produs.cs",
+              "RelativeToolTip": "proiect_PAW_2025\\Models\\Produs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:50:51.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Productie.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\Proiect\\proiect_PAW_2025\\proiect_PAW_2025\\Models\\Productie.cs",
+              "RelativeDocumentMoniker": "proiect_PAW_2025\\Models\\Productie.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\Proiect\\proiect_PAW_2025\\proiect_PAW_2025\\Models\\Productie.cs",
+              "RelativeToolTip": "proiect_PAW_2025\\Models\\Productie.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:50:49.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestiuneStoc.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\Proiect\\proiect_PAW_2025\\proiect_PAW_2025\\Models\\GestiuneStoc.cs",
+              "RelativeDocumentMoniker": "proiect_PAW_2025\\Models\\GestiuneStoc.cs",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. PAW recuperare\\git_PAW_2025\\cod scris\\Proiect\\proiect_PAW_2025\\proiect_PAW_2025\\Models\\GestiuneStoc.cs",
+              "RelativeToolTip": "proiect_PAW_2025\\Models\\GestiuneStoc.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:50:46.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

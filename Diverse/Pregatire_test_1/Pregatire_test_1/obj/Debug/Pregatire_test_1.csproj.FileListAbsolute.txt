@@ -1,0 +1,22 @@
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\pregatire test\Pregatire_test_1\Pregatire_test_1\bin\Debug\Pregatire_test_1.exe.config
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\pregatire test\Pregatire_test_1\Pregatire_test_1\bin\Debug\Pregatire_test_1.exe
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\pregatire test\Pregatire_test_1\Pregatire_test_1\bin\Debug\Pregatire_test_1.pdb
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\pregatire test\Pregatire_test_1\Pregatire_test_1\obj\Debug\Pregatire_test_1.csproj.AssemblyReference.cache
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\pregatire test\Pregatire_test_1\Pregatire_test_1\obj\Debug\Pregatire_test_1.Properties.Resources.resources
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\pregatire test\Pregatire_test_1\Pregatire_test_1\obj\Debug\Pregatire_test_1.WindowsForms.FormAddDoctor.resources
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\pregatire test\Pregatire_test_1\Pregatire_test_1\obj\Debug\Pregatire_test_1.PrincipalForm.resources
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\pregatire test\Pregatire_test_1\Pregatire_test_1\obj\Debug\Pregatire_test_1.csproj.GenerateResource.cache
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\pregatire test\Pregatire_test_1\Pregatire_test_1\obj\Debug\Pregatire_test_1.csproj.CoreCompileInputs.cache
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\pregatire test\Pregatire_test_1\Pregatire_test_1\obj\Debug\Pregatire_test_1.exe
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\pregatire test\Pregatire_test_1\Pregatire_test_1\obj\Debug\Pregatire_test_1.pdb
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\cod scris\pregatire test\Pregatire_test_1\Pregatire_test_1\bin\Debug\Pregatire_test_1.exe.config
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\cod scris\pregatire test\Pregatire_test_1\Pregatire_test_1\bin\Debug\Pregatire_test_1.exe
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\cod scris\pregatire test\Pregatire_test_1\Pregatire_test_1\bin\Debug\Pregatire_test_1.pdb
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\cod scris\pregatire test\Pregatire_test_1\Pregatire_test_1\obj\Debug\Pregatire_test_1.csproj.AssemblyReference.cache
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\cod scris\pregatire test\Pregatire_test_1\Pregatire_test_1\obj\Debug\Pregatire_test_1.Properties.Resources.resources
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\cod scris\pregatire test\Pregatire_test_1\Pregatire_test_1\obj\Debug\Pregatire_test_1.WindowsForms.FormAddDoctor.resources
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\cod scris\pregatire test\Pregatire_test_1\Pregatire_test_1\obj\Debug\Pregatire_test_1.PrincipalForm.resources
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\cod scris\pregatire test\Pregatire_test_1\Pregatire_test_1\obj\Debug\Pregatire_test_1.csproj.GenerateResource.cache
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\cod scris\pregatire test\Pregatire_test_1\Pregatire_test_1\obj\Debug\Pregatire_test_1.csproj.CoreCompileInputs.cache
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\cod scris\pregatire test\Pregatire_test_1\Pregatire_test_1\obj\Debug\Pregatire_test_1.exe
+D:\FACULTATE\RESTANTE\2.2. PAW recuperare\git_PAW_2025\cod scris\pregatire test\Pregatire_test_1\Pregatire_test_1\obj\Debug\Pregatire_test_1.pdb
